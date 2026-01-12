@@ -1,2 +1,2 @@
 # A-comparative-study-of-fairness-methods-for-clinical-predictions-using-the-MIMIC-IV-database
-In this study, FAIM is stress-tested by changing the original prediction task, hospital admission prediction after emergency department (ED) stay, to the distinct clinical task of predicting necessity of invasive medical ventilation (IMV) for patients in the intensive care unit (ICU) using data from the recently released MIMIC-IV database.
+
