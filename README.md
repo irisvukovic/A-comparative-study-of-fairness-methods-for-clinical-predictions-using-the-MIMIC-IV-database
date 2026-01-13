@@ -8,7 +8,7 @@ For the replication, we first [re-create the dataset](./hosp_admission_dataset.i
 
 Similarly, for the new clinical task of IMV allocation prediction, we [create a dataset](./imv_dataset.ipynb) extracting clinically relevant features, do an inital [bias analysis](./imv_bias_analysis.ipynb) beforehand, get [adversarial learning results](./imv_adversarial_fairness.ipynb), and finally run the [FAIM workflow](./imv_task_faim_workflow.ipynb).
 
-> **Note:** The [replication FAIM workflow](./hosp_admission_faim_workflow.ipynb) and the [IMV task FAIM workflow](./imv_task_faim_workflow.ipynb) contain the complete implementations for both experiments, but due to size and widget-rendering issues, the outputs are best viewed on **[GitHub page ofr original task](https://irisvukovic.github.io/DS-Master-Thesis-UB/hosp_admission_faim_workflow.html)** and **[GitHub page for IMV task](https://irisvukovic.github.io/DS-Master-Thesis-UB/imv_task_faim_workflow.html)**. 
+> **Note:** The [replication FAIM workflow](./hosp_admission_faim_workflow.ipynb) and the [IMV task FAIM workflow](./imv_task_faim_workflow.ipynb) contain the complete implementations for both experiments, but due to size and widget-rendering issues, the outputs are best viewed on **[GitHub page of the original task](https://irisvukovic.github.io/DS-Master-Thesis-UB/hosp_admission_faim_workflow.html)** and **[GitHub page for IMV task](https://irisvukovic.github.io/DS-Master-Thesis-UB/imv_task_faim_workflow.html)**. 
 
 **Key tables and figures** are also available in the [`figures/`](./figures) and [`tables/`](./tables) folders.
 
